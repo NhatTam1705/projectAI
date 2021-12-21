@@ -1,8 +1,5 @@
 package model;
-/**
- *
- * @author nhat_IT
- */
+
 public class DiChuyen {
    public  int viTriDau;
    public int viTriDich;

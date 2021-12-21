@@ -5,10 +5,7 @@ import java.util.Locale;
 import java.util.ResourceBundle;
 
 
-/**
- *
- * @author nhat_IT
- */
+
 public class ThuVienAnh {
     protected static ResourceBundle resources;
     static{

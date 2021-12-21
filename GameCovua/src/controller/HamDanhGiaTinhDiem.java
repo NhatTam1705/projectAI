@@ -4,10 +4,6 @@ import model.DuLieuCoVua;
 import model.QuanCo;
 import model.ViTri;
 
-/**
- *
- * @author nhat_IT
- */
 
 public class HamDanhGiaTinhDiem {   
     public int tinhDiem(ViTri viTri){        

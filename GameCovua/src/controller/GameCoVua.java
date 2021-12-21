@@ -5,10 +5,6 @@ import model.DiChuyen;
 import model.QuanCo;
 import model.ViTri;
 
-/**
- *
- * @author nhat_IT
- */
 public class GameCoVua {          
 
 	ViTri viTri;

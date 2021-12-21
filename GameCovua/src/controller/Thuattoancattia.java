@@ -4,10 +4,6 @@ import model.DuLieuCoVua;
 import model.ViTri;
 import view.Maincovua;
 
-/**
- *
- * @author nhat_IT
- */
 public class Thuattoancattia {
     Maincovua mainCoVua;
     public int chieuSau;

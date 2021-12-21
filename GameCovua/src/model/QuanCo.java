@@ -1,8 +1,5 @@
 package model;
-/**
- *
- * @author nhat_IT
- */
+
 public class QuanCo {
     public final static int TOT = 100;
     public final static int MA = 320;

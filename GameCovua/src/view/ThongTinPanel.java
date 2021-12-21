@@ -7,10 +7,7 @@ import model.DuLieuCoVua;
 
 import java.awt.*;
 
-/**
- *
- * @author nhat_IT
- */
+
 public class ThongTinPanel extends JPanel{
     public ThongTinPanel(){
         setLayout(new BorderLayout());

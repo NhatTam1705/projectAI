@@ -1,9 +1,5 @@
 package model;
 
-/**
- *
- * @author nhat_IT
- */
 public class ViTri {
 	public  DiChuyen nuocDi;
 	public  int[] banCo = new int[120];

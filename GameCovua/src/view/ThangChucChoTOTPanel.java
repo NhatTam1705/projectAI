@@ -6,10 +6,7 @@ import javax.swing.*;
 
 import model.DuLieuCoVua;
 import model.QuanCo;
-/**
- *
- * @author nhat_IT
- */
+
 public class ThangChucChoTOTPanel extends JDialog implements ActionListener{
     int index;
     int location;

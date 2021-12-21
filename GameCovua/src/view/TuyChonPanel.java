@@ -5,10 +5,7 @@ import model.DuLieuCoVua;
 
 import java.awt.*;
 import java.awt.event.*;
-/**
- *
- * @author nhat_IT
- */
+
 public class TuyChonPanel extends JFrame implements ActionListener{
 
      JRadioButton btTrang;

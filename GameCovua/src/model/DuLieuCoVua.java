@@ -2,10 +2,6 @@ package model;
 
 import view.ThuVienAnh;
 
-/**
- *
- * @author nhat_IT
- */
 public class DuLieuCoVua {
     public final static int OTRONG = 44;
     public final static int KHUNG = 88;

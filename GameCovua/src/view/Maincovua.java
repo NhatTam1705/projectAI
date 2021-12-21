@@ -23,10 +23,6 @@ import java.util.Stack;
 
 import javax.imageio.ImageIO;
 
-/**
- *
- * @author nhat_IT
- */
 public class Maincovua extends JFrame implements MouseListener {
 	private boolean quanCoDangChon;
 	private boolean chonCoTrang;
