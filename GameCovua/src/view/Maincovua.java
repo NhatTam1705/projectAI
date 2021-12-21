@@ -387,8 +387,10 @@ public class Maincovua extends JFrame implements MouseListener {
 		int viTriDich = viTriTrenMaTrix.banCo[huongDi];
 		if (viTriDich == DuLieuCoVua.KHUNG)
 			return false;
-		if (!gameCoVua.vuaAnToan(DuLieuCoVua.NGUOI, viTriDau, huongDi))
+		if (!gameCoVua.vuaAnToan(DuLieuCoVua.NGUOI, viTriDau, huongDi)) {
+			JOptionPane.showMessageDialog(this, "Bạn đang bị chiếu!!");
 			return false;
+		}
 		boolean choPhepDi = false;
 		int quanCo = viTriTrenMaTrix.cacLoaiQuanCoNguoi[viTriTrenMaTrix.banCo[viTriDau]].diem;
 		switch (quanCo) {
